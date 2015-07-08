@@ -116,7 +116,7 @@ Combiners are mostly the same as the reducers
 
 ## Wordcount Example
 
-Check 'clj-hazelcast.test.mr-test
+Check `'clj-hazelcast.test.mr-test`
 
 # Distributed Query
 
